@@ -1,0 +1,29 @@
+/*1*/
+em{
+    display: inline-block;
+    background-color: chocolate;
+    width: 200px;
+    text-align: center;
+}
+
+div{
+    background-color: cornflowerblue;
+    display: inline-block;
+}
+.he{
+    background-color: coral;
+}
+strong{
+    position: relative;
+    top: 25px;
+}
+
+
+.took{
+    background-color: aqua;
+}
+.the{
+    position: relative;
+    top: 30px;
+    left: 35px;
+}
